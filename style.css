@@ -57,7 +57,7 @@ main {
   grid-template-rows: repeat(3, 1fr);
   place-items: center;
 }
-.slides {
+.tile {
   height: 16.5rem;
   width: 16.5rem;
   background-color: #0a5f72;
